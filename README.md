@@ -4,7 +4,7 @@
 - 🌍 I’m currently learning web3.js and Solidity
 
 
-![](https://komarev.com/ghpvc/?username=tramynn&color=89a0ad&label=profile-views)
+![](https://komarev.com/ghpvc/?username=tramynn&color=6d8592&label=profile-views)
 
 <!--
 **tramynn/tramynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
