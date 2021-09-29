@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⛓ I’m currently working on a Blockchain project for ConsenSys Academy
+- 🌱 I’m currently learning web3.js and Solidity
+
+![](https://komarev.com/ghpvc/?username=tramynn&color=89a0adlabel=profile-views)
+
 <!--
 **tramynn/tramynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
