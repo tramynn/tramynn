@@ -1,6 +1,6 @@
 ### Hi there, I'm Tramy 👋
 
-- ⛓  I’m currently working on a Blockchain project for ConsenSys Academy
+- ⛓. I’m currently working on a Blockchain project for ConsenSys Academy
 - 🌍. I’m currently learning web3.js and Solidity
 
 
