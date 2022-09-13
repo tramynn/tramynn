@@ -1,6 +1,6 @@
 ### Hi there, I'm Tramy 👋
 
-- ⛓. I’m currently working on a Blockchain project at ConsenSys Academy
+- ⛓. I completed a Blockchain project for ConsenSys Academy called DevDoggies -> Check it out [here](https://devdoggies.vercel.app)~
 - 🌍. I’m currently learning Next.js, Styled Components, Web3, and Solidity
 
 
