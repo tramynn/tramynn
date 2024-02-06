@@ -1,7 +1,8 @@
 ### Hi there, I'm Tra My 👋
 
 - ⛓. I completed a Blockchain project for ConsenSys Academy called DevDoggies -> Check it out [here](https://devdoggies.vercel.app)~
-- 🌍. I’m currently learning Next.js, Styled Components, Web3, and Solidity
+- ☯️. I’m currently learning ChakraUI
+- 🕸️. I'm currently working on my new Portfolio
 
 
 ![](https://komarev.com/ghpvc/?username=tramynn&color=6d8592&label=profile+views)
