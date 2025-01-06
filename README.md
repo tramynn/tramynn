@@ -1,7 +1,7 @@
 ### Hi there, I'm Tra My 👋
 
 - ⛓. I completed a Blockchain project for ConsenSys Academy called DevDoggies -> Check it out [here](https://devdoggies.vercel.app)~
-- ☯️. I’m currently learning ChakraUI
+- ☯️. I’m currently learning ChakraUI, GraphQL, and React Native
 - 🕸️. I'm currently working on my new Portfolio
 
 
